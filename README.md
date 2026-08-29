@@ -4,4 +4,4 @@ Aperture is a photo-sharing app, where users can share their photos and get like
 A photo-sharing app built with React.
 
 ### Live Preview
-//xpcg9v.csb.app/
+https://xpcg9v.csb.app/
